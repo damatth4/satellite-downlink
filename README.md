@@ -1,2 +1,2 @@
-# satellite-downlink
-demodulating/decoding of NASA satellite downlink
+# SatelliteDownlink
+A final project for our EE 417 Final Project
